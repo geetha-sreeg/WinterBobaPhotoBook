@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Winter Photo Album</title>
+    <link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <h1>Winter Memories</h1>
+    <div class="album">
+        <!-- Add photo cards here -->
+    </div>
+
+
+
+<div class="photo">
+    <img src="C:\Users\Lenovo\Downloads\images (1).jpeg" alt="Snow">
+    <div class="caption">Snowy Day</div>
+</div>
+
+
+
+
+
+<div class="photo">
+    <img src="C:\Users\Lenovo\Downloads\images (2).jpeg" alt="Snow">
+    <div class="caption">Snowy Day</div>
+</div>
+
+
+
+<div class="photo">
+    <img src="C:\Users\Lenovo\Downloads\images (3).jpeg" alt="Snow">
+    <div class="caption">Snowy Day</div>
+</div>
+
+
+    <footer>© 2024 Winter Photo Album</footer>
+</body>
+</html>
